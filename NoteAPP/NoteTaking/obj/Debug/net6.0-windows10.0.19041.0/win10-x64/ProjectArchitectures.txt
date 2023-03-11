@@ -1,0 +1,1 @@
+C:\F\NoteAPP\NoteTaking\NoteTaking.csproj;x64
